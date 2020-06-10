@@ -1,11 +1,11 @@
 {
   "root": true,
   "project": {
-    "name": "PROJECT_NAME"
+    "name": "rosh-demo"
   },
   "api": {
-    "projectId": "PROJECT_ID",
-    "dataset": "DATASET_ID"
+    "projectId": "kgpdhrse",
+    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
